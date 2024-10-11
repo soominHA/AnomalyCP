@@ -1,0 +1,703 @@
+{
+    "train": {
+        "orange": [
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/train/blackspot/b (17).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "blackspot",
+                "anomaly": 1
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/train/blackspot/b (18).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "blackspot",
+                "anomaly": 1
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/train/blackspot/b (19).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "blackspot",
+                "anomaly": 1
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/train/blackspot/b (20).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "blackspot",
+                "anomaly": 1
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/train/blackspot/b (21).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "blackspot",
+                "anomaly": 1
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/train/blackspot/b (22).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "blackspot",
+                "anomaly": 1
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/train/canker/c (17).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "canker",
+                "anomaly": 1
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/train/canker/c (18).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "canker",
+                "anomaly": 1
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/train/canker/c (19).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "canker",
+                "anomaly": 1
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/train/canker/c (20).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "canker",
+                "anomaly": 1
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/train/canker/c (21).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "canker",
+                "anomaly": 1
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/train/canker/c (22).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "canker",
+                "anomaly": 1
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/train/fresh/f (22).png",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "fresh",
+                "anomaly": 0
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/train/fresh/f (23).png",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "fresh",
+                "anomaly": 0
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/train/fresh/f (24).png",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "fresh",
+                "anomaly": 0
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/train/fresh/f (25).png",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "fresh",
+                "anomaly": 0
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/train/fresh/f (26).png",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "fresh",
+                "anomaly": 0
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/train/fresh/f (27).png",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "fresh",
+                "anomaly": 0
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/train/fresh/f (28).png",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "fresh",
+                "anomaly": 0
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/train/fresh/f (29).png",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "fresh",
+                "anomaly": 0
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/train/fresh/f (30).png",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "fresh",
+                "anomaly": 0
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/train/fresh/f (31).png",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "fresh",
+                "anomaly": 0
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/train/fresh/f (32).png",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "fresh",
+                "anomaly": 0
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/train/fresh/f (33).png",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "fresh",
+                "anomaly": 0
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/train/grenning/g (17).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "grenning",
+                "anomaly": 1
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/train/grenning/g (18).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "grenning",
+                "anomaly": 1
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/train/grenning/g (19).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "grenning",
+                "anomaly": 1
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/train/grenning/g (20).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "grenning",
+                "anomaly": 1
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/train/grenning/g (21).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "grenning",
+                "anomaly": 1
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/train/grenning/g (22).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "grenning",
+                "anomaly": 1
+            }
+        ]
+    },
+    "test": {
+        "orange": [
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/blackspot/b (1).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "blackspot",
+                "anomaly": 1
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/blackspot/b (10).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "blackspot",
+                "anomaly": 1
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/blackspot/b (11).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "blackspot",
+                "anomaly": 1
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/blackspot/b (12).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "blackspot",
+                "anomaly": 1
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/blackspot/b (13).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "blackspot",
+                "anomaly": 1
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/blackspot/b (14).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "blackspot",
+                "anomaly": 1
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/blackspot/b (15).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "blackspot",
+                "anomaly": 1
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/blackspot/b (16).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "blackspot",
+                "anomaly": 1
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/blackspot/b (2).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "blackspot",
+                "anomaly": 1
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/blackspot/b (3).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "blackspot",
+                "anomaly": 1
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/blackspot/b (4).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "blackspot",
+                "anomaly": 1
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/blackspot/b (5).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "blackspot",
+                "anomaly": 1
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/blackspot/b (6).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "blackspot",
+                "anomaly": 1
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/blackspot/b (7).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "blackspot",
+                "anomaly": 1
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/blackspot/b (8).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "blackspot",
+                "anomaly": 1
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/blackspot/b (9).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "blackspot",
+                "anomaly": 1
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/canker/c (1).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "canker",
+                "anomaly": 1
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/canker/c (10).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "canker",
+                "anomaly": 1
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/canker/c (11).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "canker",
+                "anomaly": 1
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/canker/c (12).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "canker",
+                "anomaly": 1
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/canker/c (13).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "canker",
+                "anomaly": 1
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/canker/c (14).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "canker",
+                "anomaly": 1
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/canker/c (15).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "canker",
+                "anomaly": 1
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/canker/c (16).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "canker",
+                "anomaly": 1
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/canker/c (2).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "canker",
+                "anomaly": 1
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/canker/c (3).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "canker",
+                "anomaly": 1
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/canker/c (4).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "canker",
+                "anomaly": 1
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/canker/c (5).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "canker",
+                "anomaly": 1
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/canker/c (6).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "canker",
+                "anomaly": 1
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/canker/c (7).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "canker",
+                "anomaly": 1
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/canker/c (8).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "canker",
+                "anomaly": 1
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/canker/c (9).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "canker",
+                "anomaly": 1
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/fresh/f (1).png",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "fresh",
+                "anomaly": 0
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/fresh/f (10).png",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "fresh",
+                "anomaly": 0
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/fresh/f (11).png",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "fresh",
+                "anomaly": 0
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/fresh/f (12).png",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "fresh",
+                "anomaly": 0
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/fresh/f (13).png",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "fresh",
+                "anomaly": 0
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/fresh/f (14).png",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "fresh",
+                "anomaly": 0
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/fresh/f (15).png",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "fresh",
+                "anomaly": 0
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/fresh/f (16).png",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "fresh",
+                "anomaly": 0
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/fresh/f (17).png",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "fresh",
+                "anomaly": 0
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/fresh/f (18).png",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "fresh",
+                "anomaly": 0
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/fresh/f (19).png",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "fresh",
+                "anomaly": 0
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/fresh/f (2).png",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "fresh",
+                "anomaly": 0
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/fresh/f (20).png",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "fresh",
+                "anomaly": 0
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/fresh/f (21).png",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "fresh",
+                "anomaly": 0
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/fresh/f (3).png",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "fresh",
+                "anomaly": 0
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/fresh/f (4).png",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "fresh",
+                "anomaly": 0
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/fresh/f (5).png",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "fresh",
+                "anomaly": 0
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/fresh/f (6).png",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "fresh",
+                "anomaly": 0
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/fresh/f (7).png",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "fresh",
+                "anomaly": 0
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/fresh/f (8).png",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "fresh",
+                "anomaly": 0
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/fresh/f (9).png",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "fresh",
+                "anomaly": 0
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/grenning/g (1).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "grenning",
+                "anomaly": 1
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/grenning/g (10).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "grenning",
+                "anomaly": 1
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/grenning/g (11).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "grenning",
+                "anomaly": 1
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/grenning/g (12).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "grenning",
+                "anomaly": 1
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/grenning/g (13).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "grenning",
+                "anomaly": 1
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/grenning/g (14).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "grenning",
+                "anomaly": 1
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/grenning/g (15).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "grenning",
+                "anomaly": 1
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/grenning/g (16).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "grenning",
+                "anomaly": 1
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/grenning/g (2).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "grenning",
+                "anomaly": 1
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/grenning/g (3).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "grenning",
+                "anomaly": 1
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/grenning/g (4).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "grenning",
+                "anomaly": 1
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/grenning/g (5).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "grenning",
+                "anomaly": 1
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/grenning/g (6).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "grenning",
+                "anomaly": 1
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/grenning/g (7).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "grenning",
+                "anomaly": 1
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/grenning/g (8).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "grenning",
+                "anomaly": 1
+            },
+            {
+                "img_path": "C:/Users/dmkwo/Documents/soo/AnomalyCLIP/data/orange/test/grenning/g (9).jpg",
+                "cls_name": "orange",
+                "mask_path": "",
+                "specie_name": "grenning",
+                "anomaly": 1
+            }
+        ]
+    }
+}
