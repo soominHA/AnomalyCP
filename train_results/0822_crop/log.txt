@@ -1,0 +1,15 @@
+24-08-22 18:31:28.357 - INFO: epoch [1/15], loss:1.0100, image_loss:0.2988
+24-08-22 19:10:38.595 - INFO: epoch [2/15], loss:0.0916, image_loss:0.2582
+24-08-22 19:49:53.310 - INFO: epoch [3/15], loss:0.0805, image_loss:0.2456
+24-08-22 20:29:16.990 - INFO: epoch [4/15], loss:0.0743, image_loss:0.2375
+24-08-22 21:08:35.212 - INFO: epoch [5/15], loss:0.0716, image_loss:0.2345
+24-08-22 21:47:51.372 - INFO: epoch [6/15], loss:0.0683, image_loss:0.2319
+24-08-22 22:27:05.883 - INFO: epoch [7/15], loss:0.0669, image_loss:0.2295
+24-08-22 23:06:22.847 - INFO: epoch [8/15], loss:0.0645, image_loss:0.2266
+24-08-22 23:45:36.773 - INFO: epoch [9/15], loss:0.0637, image_loss:0.2234
+24-08-23 00:25:02.661 - INFO: epoch [10/15], loss:0.0627, image_loss:0.2241
+24-08-23 01:04:28.051 - INFO: epoch [11/15], loss:0.0617, image_loss:0.2220
+24-08-23 01:43:56.642 - INFO: epoch [12/15], loss:0.0611, image_loss:0.2225
+24-08-23 02:23:27.514 - INFO: epoch [13/15], loss:0.0599, image_loss:0.2190
+24-08-23 03:03:01.002 - INFO: epoch [14/15], loss:0.0596, image_loss:0.2179
+24-08-23 03:42:26.715 - INFO: epoch [15/15], loss:0.0585, image_loss:0.2179
