@@ -1,3 +1,0 @@
-24-08-19 11:39:39.178 - INFO: epoch [1/15], loss:1.9950, image_loss:0.4496
-24-08-19 11:57:46.784 - INFO: epoch [2/15], loss:0.0733, image_loss:0.4210
-24-08-19 12:15:48.834 - INFO: epoch [3/15], loss:0.0606, image_loss:0.3979
